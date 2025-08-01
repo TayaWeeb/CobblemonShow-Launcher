@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur CobblemonShow",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, TayaWeeb Inc.",
+        "name": "luuxis, TayaWeeb, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
