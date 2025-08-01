@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://www.pngfind.com/pngs/m/135-1357356_pokeball-clipart-clear-background-pokemon-master-ball-png.png"
+        "icon": "node build.js --icon=https://www.serebii.net/itemdex/sprites/sv/luxuryball.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
