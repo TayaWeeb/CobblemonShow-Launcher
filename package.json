@@ -1,5 +1,5 @@
 {
-    "name": "cobblemonshow-Launcher",
+    "name": "cobblemonshow-launcher",
     "preductname": "CobblemonShow Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur CobblemonShow",
@@ -40,6 +40,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TayaWeeb/CobblemonShow-Launcher.git"
+        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
     }
 }
